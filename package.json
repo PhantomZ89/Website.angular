@@ -28,7 +28,9 @@
     "@angular/router": "^6.0.0",
     "@angular/upgrade": "^6.0.0",
     "@progress/kendo-theme-material": "^1.2.1",
+    "adm-zip": "^0.4.11",
     "core-js": "^2.5.7",
+    "parsejson": "0.0.3",
     "rxjs": "^6.2.2",
     "zone.js": "^0.8.26"
   },
